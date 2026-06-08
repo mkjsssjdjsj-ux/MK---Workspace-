@@ -1,0 +1,6 @@
+{
+  "name": "MK Workspace",
+  "description": "Premium personal operating system and productivity workspace for Mohamed Khaled",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
